@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **selemondev19@gmail.com**
 
-- ⚡ Fun fact **commit my code**
+- ⚡ Fun fact **I commit my code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
