@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selemondev&label=Profile%20views&color=0e75b6&style=flat" alt="selemondev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selemondev" alt="selemondev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/selemondev" target="blank"><img src="https://img.shields.io/twitter/follow/selemondev?logo=twitter&style=for-the-badge" alt="selemondev" /></a> </p>
 
 - 🔭 I’m currently working on **10 Awesome Vue Projects**
@@ -41,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selemondev&show_icons=true&locale=en" alt="selemondev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selemondev&" alt="selemondev" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selemondev" alt="selemondev" /></a> </p>
