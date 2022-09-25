@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/selemondev" target="blank"><img src="https://img.shields.io/twitter/follow/selemondev?logo=twitter&style=for-the-badge" alt="selemondev" /></a> </p>
 
-- 🔭 I’m currently working on **10 Awesome Vue Projects**
+- 🔭 I’m currently working on **Chakra Kit & 10 Awesome Vue Projects**
 
 - 🌱 I’m currently learning **Nuxt 3**
 
