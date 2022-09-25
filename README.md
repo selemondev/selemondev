@@ -40,9 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selemondev&" alt="selemondev" /></p>
 
-## Current Stats
-
-|   ![Selemondev's github activity graph](https://activity-graph.herokuapp.com/graph?username=selemondev&theme=rogue) |
+|   ![Selemondev's github activity graph](https://activity-graph.herokuapp.com/graph?username=selemondev&theme=dark) |
 | :---: |
 
 
