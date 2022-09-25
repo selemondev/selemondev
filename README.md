@@ -40,4 +40,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selemondev&" alt="selemondev" /></p>
 
+## Current Stats
+
+|   ![Selemondev's github activity graph](https://activity-graph.herokuapp.com/graph?username=selemondev&theme=rogue) |
+| :---: |
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selemondev" alt="selemondev" /></a> </p>
