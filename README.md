@@ -44,3 +44,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selemondev&" alt="selemondev" /></p>
 
+[![Selemondev's github activity graph](https://activity-graph.herokuapp.com/graph?username=selemondev&theme=xcode)](https://github.com/selemondev)
+
+<!--<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=selemondev&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=selemondev&theme=radical">
+</p> -->
+<!-- <p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=selemondev&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> -->
+
