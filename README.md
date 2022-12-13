@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chakra Kit** and **Blaze UI**
 
-- 🌱 I’m currently learning **Prisma**
+- 🌱 I’m currently learning **Nuxt 3**
 
 - 👯 I’m looking to collaborate on **Vue and React projects**
 
