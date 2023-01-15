@@ -22,6 +22,7 @@
 - 📄 Know about my experiences [https://selemon-portfolio.vercel.app](https://selemon-portfolio.vercel.app)
 
 - ⚡ Fun fact **I enjoy using both Vue and React.**
+- <a href="https://app.daily.dev/selemondev"><img src="https://api.daily.dev/devcards/34298076f8474761ab36ae0ff73388ad.png?r=t4a" width="400" alt="Selemondev's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
