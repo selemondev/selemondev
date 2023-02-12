@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chakra Kit** and **Blaze UI**
 
-- 🌱 I’m currently learning **TRPC**
+- 🌱 I’m currently learning **tRPC**
 
 - 👯 I’m looking to collaborate on **Vue and React projects**
 
