@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/selemondev" target="blank"><img src="https://img.shields.io/twitter/follow/selemondev?logo=twitter&style=for-the-badge" alt="selemondev" /></a> </p>
 
-- 🔭 I’m currently working on **Chakra Kit** and **Blaze UI**
+- 🔭 I’m currently working on **Blaze UI**
 
 - 🌱 I’m currently learning **tRPC**
 
